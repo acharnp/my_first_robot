@@ -2,4 +2,4 @@ build/*
 install/*
 log/*
 .vscode/
-ws.code-workspace
+my_robot_ws.code-workspace
